@@ -6,7 +6,7 @@
 [![License: GPL-3.0](https://img.shields.io/badge/License-GPLv3-blue.svg?style=plastic)](https://www.gnu.org/licenses/gpl-3.0)
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10495174.svg)](https://doi.org/10.5281/zenodo.10495174)
 
-# FieldTrip 
+# FieldTrip + c3
 
 FieldTrip is the MATLAB software toolbox for MEG, EEG and iEEG analysis that is being
 developed at the Donders Institute for Brain, Cognition and Behaviour in Nijmegen,
